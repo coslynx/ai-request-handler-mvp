@@ -1,0 +1,23 @@
+# Environment configurations
+.env
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Virtual environment directories
+venv/
+*.venv/
+
+# Logs
+*.log
+
+# IDE specific files
+.idea/
+.vscode/
+
+# Other items to ignore
+*.DS_Store
+*.egg-info/
+dist/
+build/
